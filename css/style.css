@@ -13,3 +13,8 @@ p {
 h1{
     border: 2px;
 }
+
+h2{
+    height: 20px;
+    width: 10px;
+}

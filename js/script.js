@@ -1,2 +1,2 @@
-console.log('I work with Git');
+console.log('I work with Git and GitHub');
  
